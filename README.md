@@ -1,3 +1,40 @@
+# Material-UI-With-React
+A fully functioning real time form validation component done with reactstrap and shards UI toolkit. An instagram like story adding features and E-commerce product filtering page template - Pop Out Filter UI.
+
+## Packages and Libraries Used
+```bash
+React
+React Router
+React Strap
+```
+## Code
+Check out the code section for all the code files.
+
+
+## Run Locally
+
+- git clone https://github.com/Imran109/Material-UI-with-React.git
+
+- cd Material-UI-with-React
+
+- Run the project
+    - open new terminal
+    - npm install
+    -npm start
+
+Let me know if you have any questions. [Email Mohamed Imran P S](mailto:mohamedimranps@gmail.com)
+
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please make sure to update tests as appropriate.
+
+## License
+[Mohamed Imran P S](https://linkedin.com/in/mohamedimranps)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
