@@ -1,0 +1,42 @@
+.container{
+    background-color: rgb(245, 241, 237);
+}
+.filters{
+    margin-left: 80px;
+}
+
+.price-section{
+    display:flex;
+    margin-right: 100px;
+}
+
+.redder{
+        background-color: red;
+}
+.bluer{
+    background-color: blue;
+}
+.greener{
+    background-color: green;
+}
+.oranger{
+    background-color: orange;
+}
+.pinker{
+    background-color: pink;
+}
+.yellower{
+    background-color: yellow;
+}
+.purpler{
+    background-color: purple;
+}
+.blacker{
+    background-color: rgb(161, 136, 53);
+}
+.browner{
+    background-color: brown;
+}
+.tealer{
+    background-color: teal;
+}
