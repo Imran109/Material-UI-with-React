@@ -31,7 +31,7 @@ Let me know if you have any questions. [Email Mohamed Imran P S](mailto:mohamedi
 ## Form Validation Component
 ![](images/Formvalidation.png)
 
-## Pop - Out Filer
+## Pop - Out Filter
 ![](images/Productfilter.png)
 
 
